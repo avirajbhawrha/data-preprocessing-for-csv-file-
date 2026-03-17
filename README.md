@@ -1,10 +1,10 @@
 # data-preprocessing-for-csv-file-
 
-🏥 Insurance Data Preprocessing Project
+🏥 Insurance Data Preprocessing Project :
 
 This project focuses on cleaning and preprocessing insurance data to make it ready for analysis and machine learning models.
 
-📌 Project Overview
+ Project Overview :
 
 In this project, raw insurance dataset is processed by:
 
@@ -18,12 +18,12 @@ Data cleaning and transformation
 
 The goal is to prepare high-quality data for further analysis or predictive modeling.
 
-📂 Project Structure
+📂 Project Structure :
 data_preprocessing_of_insurance_data/
 │── data_preprocessing_of_insurance_data.ipynb
-│── dataset.csv (if included)
+│── dataset.csv 
 │── README.md
-🛠️ Technologies Used
+
 
 🐍 Python
 
@@ -63,7 +63,7 @@ Region
 
 Insurance charges
 
-🚀 How to Run
+ How to Run :
 
 Clone the repository
 
@@ -71,7 +71,7 @@ Open the notebook in Jupyter
 
 Run all cells step by step
 
-🎯 Future Improvements
+ Future Improvements :
 
 Add machine learning model 🤖
 
